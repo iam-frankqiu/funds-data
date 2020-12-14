@@ -1,2 +1,2 @@
 # funds-data
-A website shows some funds and stock data which built with Rome, Tailwindcss and React.
+A website shows some funds and stock data built with Rome, Tailwindcss and React.
